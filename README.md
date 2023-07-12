@@ -1,5 +1,6 @@
 # ModifierRoulette
 Created by BliX
+For Mac OS
 
 Functionality:
 1) Making a list of modifiers with description
